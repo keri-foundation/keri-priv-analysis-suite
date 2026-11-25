@@ -13,9 +13,9 @@
 [project]
 site_name = "KERI privacy analysis suite"
 site_description = "What a KERI/ACDC deployment lets each adversary correlate about a citizen, measured on any implementation."
-site_url = "https://bakobo.github.io/keri-priv-analysis-suite/"
-repo_url = "https://github.com/bakobo/keri-priv-analysis-suite"
-repo_name = "bakobo/keri-priv-analysis-suite"
+site_url = "https://keri-foundation.github.io/keri-priv-analysis-suite/"
+repo_url = "https://github.com/keri-foundation/keri-priv-analysis-suite"
+repo_name = "keri-foundation/keri-priv-analysis-suite"
 docs_dir = "_site/src"
 # Colours taken from keri.one, as on the conformance suite's site; the stylesheet says which.
 extra_css = ["stylesheets/kpa.css"]

@@ -1,6 +1,6 @@
 # keri-priv-analysis-suite
 
-[![CI](https://github.com/bakobo/keri-priv-analysis-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/bakobo/keri-priv-analysis-suite/actions/workflows/ci.yml)
+[![CI](https://github.com/keri-foundation/keri-priv-analysis-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/keri-foundation/keri-priv-analysis-suite/actions/workflows/ci.yml)
 
 Measures what a KERI/ACDC deployment lets each adversary correlate about a citizen, on any implementation. A deployment that issues bulk credential copies relies on mitigations such as one registry per credential and a fresh holder AID per copy to resist registry, timestamp, batch, AID and network-observation correlation. The suite tests those mitigations: for each party (colluding verifiers, a hacker or insider who obtains State data, a government office that compels disclosure, a network observer) it reports what that party can correlate, how many identifying bits the correlation yields per citizen, how certain it is and how complete. It never claims that something cannot be linked.
 
@@ -8,7 +8,7 @@ Measures what a KERI/ACDC deployment lets each adversary correlate about a citiz
 
 The intentions behind it are in [`this.i`](this.i), the approved test plan in [`docs/test-plan.md`](docs/test-plan.md), and the adapter interface in [`docs/adapters.md`](docs/adapters.md). The [scored findings](docs/privacy-findings.md) link to the generator and KERIA run evidence.
 
-All of this, with the scored reports, is published at <https://bakobo.github.io/keri-priv-analysis-suite/>. Start with [what the runs found](docs/privacy-findings.md); [reading a report](docs/reading-a-report.md) and the [glossary](docs/glossary.md) explain the rest, and [`docs/site.md`](docs/site.md) says how the site is built.
+All of this, with the scored reports, is published at <https://keri-foundation.github.io/keri-priv-analysis-suite/>. Start with [what the runs found](docs/privacy-findings.md); [reading a report](docs/reading-a-report.md) and the [glossary](docs/glossary.md) explain the rest, and [`docs/site.md`](docs/site.md) says how the site is built.
 
 ## Fresh clone to passing tests
 

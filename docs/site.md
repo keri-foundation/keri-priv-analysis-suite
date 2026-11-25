@@ -1,6 +1,6 @@
 # The documentation site
 
-The suite's documentation and its scored results are published at <https://bakobo.github.io/keri-priv-analysis-suite/>. The site is built the same way as the [KERI conformance suite's](https://bakobo.github.io/keri-conformance-suite/), with the same theme, so the two read as one family.
+The suite's documentation and its scored results are published at <https://keri-foundation.github.io/keri-priv-analysis-suite/>. The site is built the same way as the [KERI conformance suite's](https://keri-foundation.github.io/keri-conformance-suite/), with the same theme, so the two read as one family.
 
 ## What it publishes
 

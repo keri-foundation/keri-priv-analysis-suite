@@ -34,7 +34,7 @@ from pathlib import Path
 import markdown
 from bakobo.errors import BakoboError, ErrorCode
 
-REPO_URL = "https://github.com/bakobo/keri-priv-analysis-suite"
+REPO_URL = "https://github.com/keri-foundation/keri-priv-analysis-suite"
 MARKER = ".kpa-site-source"
 RESULTS_DIR = "results"
 # The results files the site carries. Everything else under results/ (results.json, report.json,

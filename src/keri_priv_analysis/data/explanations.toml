@@ -11,7 +11,7 @@
 
 # Where the explanations are published. Reports link here, so a reader of a report on GitHub or
 # from a local run reaches the same definitions as a reader of the site.
-site = "https://bakobo.github.io/keri-priv-analysis-suite/"
+site = "https://keri-foundation.github.io/keri-priv-analysis-suite/"
 
 # Titles for the parties the approved scenarios use (docs/scenario-proposal.md). A party with no
 # entry is titled by its id.
